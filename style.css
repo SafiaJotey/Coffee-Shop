@@ -1,0 +1,190 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Inter:wght@400;500;700&display=swap');
+
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+/*nav bar css */
+.brand{
+    font-family: 'Cedarville Cursive', cursive;
+    font-weight: 700;
+}
+.nav-item{
+    margin-right:57px;
+}
+
+
+ .btn {
+    padding: 5px 25px;
+    background-color:  #2D635E;
+    color: white;
+    border-radius: 7px;
+    margin-bottom:20px ;
+    
+    
+} 
+img{
+    width: 60%;
+}
+
+image{
+    width: 40%;
+}
+
+/*hero section*/
+
+.hero{
+    margin-top:84px;
+}
+
+
+
+.hero .details h1{
+  
+font-size: 63px;
+
+font-weight: 700;
+line-height: 63px;
+letter-spacing: 0em;
+margin: 26px 0;
+
+    
+}
+
+
+.hero .details h4{
+   font-family: 'Cedarville Cursive', cursive;
+   font-size: 28px;
+   font-weight: 400;
+   line-height: 53px;
+   
+   
+
+}
+
+
+.about{
+    margin-top: 84px;
+}
+
+
+
+.about h2{
+    
+font-size: 38px;
+
+font-weight: 700;
+line-height: 38px;
+margin-top:10px ;
+
+}
+
+.about p{
+   
+font-size: 19px;
+
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0.001em;
+color:  #444A4A;
+margin: 25px 0;
+
+
+}
+
+/*promotion css */
+
+.Promotion{
+    margin-top: 104px;
+}
+
+
+.Promotion h2{
+   
+font-size: 38px;
+
+font-weight: 700;
+line-height: 38px;
+
+}
+
+.Promotion p{
+   
+font-size: 19px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0.001em;
+color: #444A4A;
+margin: 25px 0;
+
+
+}
+
+/*card-section*/
+
+.card-section{
+    margin-top: 64px;
+    background: #F3F2F1;
+}
+.card{
+    background: #F3F2F1;
+
+}
+.card-body{
+    box-shadow: 5px 5px 5px gray;
+    background: white;
+    margin: 40px;
+    border-radius: 10px;
+}
+
+.card-body h5{
+   
+font-size: 28px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+/*map css*/
+.map{
+    margin-top:64px ;
+}
+.map h4{
+  
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 45px;
+letter-spacing: 0.02em;
+text-align: justified;
+margin-top: 20px;
+
+}
+
+.map p{
+   
+    font-size: 19px;
+    
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0.001em;
+    color:  #444A4A;
+    margin: 25px 0;
+    
+    
+    }
+
+
+    footer{
+        margin-top: 64px;
+        text-align: center;
+    }
+
+
+
